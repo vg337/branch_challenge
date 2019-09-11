@@ -1,2 +1,2 @@
 
- "A la Wild code School, je scripte en chaussettes".
+ "A la Wild code School, je code en chaussettes".
